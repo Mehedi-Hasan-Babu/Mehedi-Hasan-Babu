@@ -1,5 +1,12 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on ... Self Development
+- 🌱 I’m currently learning ... Various Soft Tech and Skills 
+- 👯 I’m looking to collaborate on ... Projects and Competetive Programming
+- 🤔 I’m looking for help with ...Different Courses and Technical Knowleges
+- 💬 Ask me about ... My Passion and Career Plans
+- 📫 How to reach me: ... Facebook , Whatsapp , Email.
+- 😄 Pronouns: ... Babu 😁
+- ⚡ Fun fact: ... I am too much lazy to learn new technologies; 
 <!--
 **Mehedi-Hasan-Babu/Mehedi-Hasan-Babu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
