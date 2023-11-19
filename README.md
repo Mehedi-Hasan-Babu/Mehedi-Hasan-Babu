@@ -6,7 +6,10 @@
 - 💬 Ask me about ... My Passion and Career Plans
 - 📫 How to reach me: ... Facebook , Whatsapp , Email.
 - 😄 Pronouns: ... Babu 😁
-- ⚡ Fun fact: ... I am too much lazy to learn new technologies; 
+- ⚡ Fun fact: ... I am too much lazy to learn new technologies;
+
+  # Connect
+  [Linkedin](https://www.linkedin.com/in/mehedihasanbabu) 
 <!--
 **Mehedi-Hasan-Babu/Mehedi-Hasan-Babu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
