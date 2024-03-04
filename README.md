@@ -8,6 +8,9 @@
 - 😄 Pronouns: ... Babu 😁
 - ⚡ Fun fact: ... I am too much lazy to learn new technologies;
 
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/65e5e5e88947e435e7790fba?variant=dark" alt="roadmap.sh"/></a>
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65e5e5e88947e435e7790fba?variant=dark)](https://roadmap.sh)
+
   # Connect
   [Linkedin](https://www.linkedin.com/in/mehedihasanbabu) 
 <!--
